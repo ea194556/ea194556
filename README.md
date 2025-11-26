@@ -6,14 +6,15 @@
 ### 👋 Hey, I'm **Ehab Alaa**
 ### 💻 Front-End Developer | UI Designer
 
-🌟 *I'm a Front-End Developer with growing experience in building responsive and clean websites.  
-I work with HTML, CSS, JavaScript, and React to create simple and user-friendly interfaces.  
-I'm always improving my skills and learning new tools to become a better developer.*
-
 ![Totals Hits](https://komarev.com/ghpvc/?username=Ehab-Alaa&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Ehab-Alaa&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 
 </div>
+
+---
+
+## 📝 About Me
+I'm a passionate **Front-End Developer** with experience in building responsive websites and user-friendly UI designs. I love turning ideas into interactive digital experiences. My focus is on **HTML, CSS, JavaScript**, and **React**, with a growing interest in **C++** and **SQL databases**.
 
 ---
 
