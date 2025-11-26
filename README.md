@@ -4,7 +4,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
 
 ### 👋 Hey, I'm **Ehab Alaa**
-### 💻 Front-End Developer | UI Designer | Web Enthusiast
+### 💻 Front-End Developer | UI Designer | Web Developer
 
 <details>
 <p><strong><summary> Coding & Vibing to 🎧 : </summary></strong></p>
