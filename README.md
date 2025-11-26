@@ -52,7 +52,7 @@ I'm a passionate Front-End Developer with experience in building responsive webs
 ---
 
 
-
+📫 Contact / Socials
 
 <div align="center" >
 <a  href="https://github.com/SP-XD">
