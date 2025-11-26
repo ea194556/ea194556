@@ -20,8 +20,6 @@ I'm a passionate Front-End Developer with experience in building responsive webs
 
 ---
 
-## 📝 About Me
-I'm a passionate **Front-End Developer** with experience in building responsive websites and user-friendly UI designs. I enjoy turning ideas into interactive digital experiences. My focus is on **HTML, CSS, JavaScript**, and **React**, with growing skills in **C++** and **SQL databases**.
 
 ---
 
